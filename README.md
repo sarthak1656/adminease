@@ -1,7 +1,6 @@
 # Adminease 🛠️
 
 **Live Demo:** [https://adminease-beta.vercel.app](https://adminease-beta.vercel.app)  
-**GitHub Repo:** [https://github.com/sarthak1656/adminease](https://github.com/sarthak1656/adminease)
 
 Adminease is a modern, responsive admin dashboard built with **React**, **ApexCharts**, and **React Icons**. Designed to deliver an intuitive user experience, this dashboard is suitable for various analytics and management needs.
 
