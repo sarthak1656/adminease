@@ -42,3 +42,18 @@ npm install
 
 # Start the development server
 npm run dev
+
+```
+
+## 🌐 Deployment
+
+The app is deployed on **Vercel** for lightning-fast performance and continuous deployment.
+
+🔗 **Live App:** [https://adminease-beta.vercel.app](https://adminease-beta.vercel.app)
+
+To deploy your own version:
+
+1. Push your code to GitHub
+2. Connect the repository to [Vercel](https://vercel.com/)
+3. Let Vercel handle the rest 🚀
+
