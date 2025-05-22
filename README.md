@@ -12,10 +12,7 @@ Adminease is a modern, responsive admin dashboard built with **React**, **ApexCh
 - 💡 Clean and minimal UI
 - 📱 Fully responsive design (mobile, tablet, desktop)
 
-## 📸 Preview
 
-![Adminease Dashboard Preview](https://user-images.githubusercontent.com/your-screenshot-placeholder.png)
-<!-- Upload a screenshot and replace the URL above -->
 
 ## 🧰 Tech Stack
 
